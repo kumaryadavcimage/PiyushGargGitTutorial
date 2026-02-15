@@ -16,3 +16,8 @@ function newFeatureAdd(){
     console.log('This is a new feat');
     console.log('This is a new feat A')
 }
+
+function newFeatureAdd_B(){
+    console.log('This is a new feat');
+    console.log('This is new feat B');
+}
